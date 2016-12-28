@@ -1,0 +1,3 @@
+#proxychain
+
+  lantern->ss->ssh
